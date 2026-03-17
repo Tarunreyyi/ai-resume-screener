@@ -1,0 +1,57 @@
+ai_resume_screener/
+│
+├── app.py
+│
+├── requirements.txt
+│
+├── README.md
+│
+├── data/
+│   ├── raw/
+│   │   └── ai_resume_dataset_2025.csv
+│   │
+│   ├── processed/
+│   │   └── cleaned_resume_data.csv
+│   │
+│   └── external/
+│       └── job_description.txt
+│
+├── modules/
+│   ├── __init__.py
+│   │
+│   ├── data_loader.py
+│   │   # Load CSV dataset
+│   │
+│   ├── preprocessing.py
+│   │   # Clean skills text
+│   │   # Handle missing values
+│   │   # Format education and certifications
+│   │
+│   ├── feature_engineering.py
+│   │   # Convert skills to TF-IDF
+│   │   # Encode experience
+│   │   # Encode education level
+│   │   # Include projects count
+│   │
+│   ├── scoring.py
+│   │   # Combine all features
+│   │   # Calculate final score
+│   │
+│   ├── similarity.py
+│   │   # Cosine similarity between skills and job role
+│   │
+│   └── ranking.py
+│       # Sort candidates
+│       # Assign ranks
+│
+├── models/
+│   └── tfidf_vectorizer.pkl
+│
+├── utils/
+│   ├── __init__.py
+│   ├── config.py
+│   └── helper.py
+│
+└── outputs/
+    ├── ranked_candidates.csv
+    └── final_scores.csv

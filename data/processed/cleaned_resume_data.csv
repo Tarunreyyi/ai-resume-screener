@@ -1,0 +1,256 @@
+Resume_ID,Name,Skills,Experience (Years),Education,Certifications,Job Role,Recruiter Decision,Salary Expectation ($),Projects Count,AI Score (0-100)
+2,Wesley Roman,"deep learning,machine learning,python,sql",10,MBA,Google ML,Data Scientist,Hire,113002,1,100
+17,Megan Brown,"sql,python",10,PhD,,Data Scientist,Hire,115364,2,100
+19,Jonathon Pineda,"sql,python,deep learning",3,MBA,,Data Scientist,Hire,112439,10,95
+20,Jennifer Collins,"machine learning,sql,python",10,B.Tech,Deep Learning Specialization,Data Scientist,Hire,53167,9,100
+23,William Clark,"machine learning,deep learning,sql",4,MBA,AWS Certified,Data Scientist,Hire,107045,8,100
+30,Steven Thomas,"sql,python",10,B.Tech,AWS Certified,Data Scientist,Hire,59926,4,100
+31,Abigail Watts,"python,sql",4,PhD,,Data Scientist,Hire,84679,10,100
+33,Elizabeth Serrano,"deep learning,machine learning,sql,python",8,M.Tech,AWS Certified,Data Scientist,Hire,51283,4,100
+40,Kim Blake,"sql,python",1,MBA,AWS Certified,Data Scientist,Hire,52364,8,70
+44,Denise Ramirez,"machine learning,python",1,MBA,Deep Learning Specialization,Data Scientist,Hire,50397,8,70
+45,Tanya West,"sql,python,machine learning",4,M.Tech,AWS Certified,Data Scientist,Hire,95486,6,95
+48,Christopher Stevenson,"python,machine learning",8,PhD,Google ML,Data Scientist,Hire,103477,9,100
+53,James Bailey,"sql,deep learning,machine learning",1,MBA,,Data Scientist,Reject,54006,4,45
+54,William Hill,"python,sql,machine learning",9,B.Sc,Google ML,Data Scientist,Hire,82004,2,100
+55,James Jones,"python,sql,machine learning",0,B.Tech,AWS Certified,Data Scientist,Reject,112663,7,60
+62,Laura Howell,"sql,deep learning,machine learning,python",8,B.Sc,,Data Scientist,Hire,72780,9,100
+63,Kevin Miller,"machine learning,deep learning,python",9,M.Tech,Google ML,Data Scientist,Hire,84443,3,100
+65,Steven Bell II,"deep learning,python,machine learning,sql",10,MBA,Deep Learning Specialization,Data Scientist,Hire,63516,2,100
+70,Jonathan Fowler,"sql,python,machine learning,deep learning",1,B.Tech,AWS Certified,Data Scientist,Reject,43647,1,45
+73,Scott Kidd,"python,sql,machine learning,deep learning",0,M.Tech,Deep Learning Specialization,Data Scientist,Reject,69800,6,60
+77,Timothy Kirby,"python,machine learning",0,M.Tech,Deep Learning Specialization,Data Scientist,Reject,61332,0,20
+80,Wesley Rodriguez,"deep learning,python,machine learning,sql",6,B.Sc,Deep Learning Specialization,Data Scientist,Hire,82300,4,100
+87,Heather Bauer,"sql,deep learning,python,machine learning",6,M.Tech,Deep Learning Specialization,Data Scientist,Hire,72143,10,100
+99,Shannon Patel,"python,deep learning",6,PhD,Google ML,Data Scientist,Hire,63260,8,100
+106,Natasha Orr,"deep learning,machine learning,sql",7,B.Tech,AWS Certified,Data Scientist,Hire,118152,6,100
+108,Michael Lewis,"python,deep learning,machine learning",2,B.Tech,Deep Learning Specialization,Data Scientist,Reject,98024,2,55
+109,Michael Jones,"python,machine learning,sql",4,B.Tech,,Data Scientist,Hire,85884,6,85
+112,Richard Jones MD,"machine learning,sql,deep learning",5,B.Tech,Deep Learning Specialization,Data Scientist,Hire,59033,4,95
+113,Sydney Nelson,"sql,python,machine learning,deep learning",3,MBA,Deep Learning Specialization,Data Scientist,Hire,102054,1,65
+126,Taylor Cunningham,"sql,python",9,B.Sc,Deep Learning Specialization,Data Scientist,Hire,66133,2,100
+127,Sophia Bradley,"machine learning,python,deep learning,sql",5,M.Tech,Deep Learning Specialization,Data Scientist,Hire,95222,5,100
+138,Jean Clark,"machine learning,python,sql",10,M.Tech,Google ML,Data Scientist,Hire,88678,3,100
+139,Tyler Henderson,"deep learning,sql,python,machine learning",4,M.Tech,,Data Scientist,Hire,60868,7,95
+141,Ronald Thomas,"deep learning,python,sql",3,B.Sc,Google ML,Data Scientist,Hire,64716,2,65
+143,Thomas Davis,"sql,machine learning,deep learning,python",5,B.Tech,,Data Scientist,Hire,89620,3,85
+147,Dawn Brown,"sql,python,deep learning,machine learning",10,PhD,,Data Scientist,Hire,119703,1,100
+148,Joshua Hughes,"python,machine learning",8,PhD,AWS Certified,Data Scientist,Hire,95978,4,100
+150,Shannon Johnson,"python,machine learning",9,B.Sc,Google ML,Data Scientist,Hire,83152,2,100
+153,Dale Williams,"python,machine learning,sql,deep learning",7,PhD,AWS Certified,Data Scientist,Hire,62092,2,100
+154,Victoria Kennedy,"python,deep learning,sql,machine learning",7,B.Tech,Google ML,Data Scientist,Hire,65981,0,100
+161,Michael Le,"sql,machine learning",3,PhD,Deep Learning Specialization,Data Scientist,Hire,112466,9,95
+162,Patricia Scott,"sql,machine learning",5,M.Tech,AWS Certified,Data Scientist,Hire,99076,8,100
+166,Christopher Fletcher,"deep learning,sql",2,PhD,,Data Scientist,Reject,89120,3,45
+170,Ruth Prince,"python,machine learning",7,M.Tech,,Data Scientist,Hire,98540,0,80
+172,Lisa Lawson,"deep learning,sql,python",3,B.Sc,AWS Certified,Data Scientist,Hire,50781,6,85
+174,Phillip Shaw,"sql,python",9,PhD,Deep Learning Specialization,Data Scientist,Hire,69101,8,100
+175,Lisa Jones,"machine learning,deep learning,python,sql",6,MBA,,Data Scientist,Hire,76085,4,100
+176,Dillon Hoffman,"sql,machine learning,python,deep learning",9,B.Sc,Google ML,Data Scientist,Hire,57223,2,100
+178,Terry Kaufman,"sql,deep learning,python,machine learning",8,B.Sc,Google ML,Data Scientist,Hire,118651,5,100
+182,Stephen Nichols,"machine learning,deep learning,sql,python",1,PhD,,Data Scientist,Hire,60495,7,65
+184,Caitlin Turner,"sql,deep learning,python",5,PhD,,Data Scientist,Hire,89654,3,80
+189,Evelyn Porter,"sql,python,machine learning,deep learning",3,M.Tech,Google ML,Data Scientist,Hire,65930,5,85
+194,Nicholas Welch,"machine learning,sql,python",10,PhD,,Data Scientist,Hire,95170,6,100
+197,John Mendoza,"python,deep learning",8,PhD,,Data Scientist,Hire,69641,10,100
+211,Cindy Crosby,"machine learning,python,deep learning",3,B.Tech,AWS Certified,Data Scientist,Hire,99842,4,75
+217,Tammy Phillips,"sql,deep learning,python,machine learning",7,B.Sc,,Data Scientist,Hire,82958,10,100
+227,Jacob Long,"python,deep learning,machine learning",2,B.Tech,Deep Learning Specialization,Data Scientist,Hire,106472,4,65
+233,Jennifer Lane,"deep learning,python",3,MBA,AWS Certified,Data Scientist,Hire,110523,4,70
+238,April Lewis,"python,deep learning",5,B.Tech,,Data Scientist,Hire,67218,3,75
+240,Sheila Gonzalez,"deep learning,sql",1,M.Tech,Google ML,Data Scientist,Reject,64383,4,50
+242,Mario Savage,"deep learning,machine learning,python,sql",5,B.Tech,AWS Certified,Data Scientist,Hire,78601,7,100
+246,Christine Reyes,"deep learning,python,sql",2,B.Sc,Deep Learning Specialization,Data Scientist,Hire,119054,8,85
+248,Ashley Moore,"deep learning,machine learning,sql",5,B.Sc,Google ML,Data Scientist,Hire,41593,4,95
+254,Juan Velez,"sql,machine learning",2,B.Tech,,Data Scientist,Reject,116999,2,40
+259,Bryan Wright,"sql,machine learning,deep learning",0,B.Tech,Deep Learning Specialization,Data Scientist,Reject,113435,2,35
+269,Paul Lozano,"sql,machine learning,deep learning,python",8,M.Tech,Google ML,Data Scientist,Hire,109019,8,100
+271,Amy Poole,"machine learning,sql,python",0,PhD,Google ML,Data Scientist,Reject,43642,7,60
+277,Dr. Antonio Martinez,"deep learning,machine learning,python",3,MBA,AWS Certified,Data Scientist,Reject,71310,1,60
+280,Kristen Santana,"deep learning,machine learning",0,PhD,Google ML,Data Scientist,Reject,73914,1,25
+285,Tara Williams,"python,deep learning",7,B.Tech,,Data Scientist,Hire,104891,2,90
+288,Rebecca Lewis,"python,sql,deep learning",10,B.Tech,,Data Scientist,Hire,92689,8,100
+289,Jonathan Andrews,"python,deep learning,sql,machine learning",2,M.Tech,,Data Scientist,Hire,82012,7,75
+293,Katelyn Hopkins,"machine learning,python,sql",6,B.Tech,,Data Scientist,Hire,50393,5,100
+296,Jacqueline Frederick,"deep learning,python,machine learning,sql",2,B.Sc,,Data Scientist,Hire,84282,6,70
+299,Scott Coleman,"sql,deep learning",6,B.Tech,Google ML,Data Scientist,Hire,80534,6,100
+305,Tina Howard,"sql,python,machine learning",6,B.Sc,AWS Certified,Data Scientist,Hire,52824,9,100
+307,Jessica Campbell,"machine learning,sql,python",4,B.Sc,Google ML,Data Scientist,Hire,114573,8,100
+308,Andrew Shaw,"python,sql",1,MBA,Deep Learning Specialization,Data Scientist,Hire,112556,7,65
+309,Stephen Lopez,"deep learning,sql",6,B.Tech,AWS Certified,Data Scientist,Hire,106433,0,80
+312,Benjamin Rivera,"sql,machine learning,python,deep learning",6,B.Sc,Google ML,Data Scientist,Hire,99502,8,100
+313,Laura Stewart,"deep learning,sql,python,machine learning",1,PhD,Deep Learning Specialization,Data Scientist,Reject,52288,1,45
+318,Heather Savage,"machine learning,python,deep learning",2,B.Tech,Deep Learning Specialization,Data Scientist,Hire,55376,7,80
+321,Jerome Sampson,"deep learning,sql",5,MBA,Google ML,Data Scientist,Hire,114879,8,100
+323,Malik Burns,"python,deep learning",5,B.Tech,,Data Scientist,Hire,73559,10,100
+326,William Bryant,"deep learning,python",3,MBA,AWS Certified,Data Scientist,Hire,44012,10,100
+327,Abigail Brock,"machine learning,python,deep learning",9,B.Tech,,Data Scientist,Hire,93707,0,100
+332,Brett Mills,"python,deep learning,sql,machine learning",1,B.Tech,AWS Certified,Data Scientist,Hire,61616,9,85
+340,John Alvarez,"sql,machine learning",0,B.Tech,AWS Certified,Data Scientist,Reject,90362,8,60
+342,Shannon Page,"deep learning,sql,python,machine learning",8,MBA,AWS Certified,Data Scientist,Hire,100345,0,100
+345,Whitney Thompson,"deep learning,machine learning,sql,python",1,M.Tech,Deep Learning Specialization,Data Scientist,Hire,79991,10,90
+349,Ashley Gardner,"machine learning,python",1,MBA,AWS Certified,Data Scientist,Reject,108606,3,45
+353,Morgan Mueller,"python,deep learning,sql,machine learning",9,PhD,,Data Scientist,Hire,45043,5,100
+354,Anthony Wheeler,"python,machine learning,deep learning",0,B.Tech,Google ML,Data Scientist,Reject,116661,3,40
+359,Debra Franco,"sql,deep learning,machine learning",6,M.Tech,,Data Scientist,Hire,58016,2,85
+369,Shelly Mann,"deep learning,python",6,MBA,Deep Learning Specialization,Data Scientist,Hire,53984,7,100
+378,Jacob White,"python,machine learning,deep learning",0,B.Sc,Deep Learning Specialization,Data Scientist,Hire,97987,10,75
+379,Zachary Lynch,"sql,python",8,B.Sc,Deep Learning Specialization,Data Scientist,Hire,118157,10,100
+380,Mr. Keith Smith,"sql,python,deep learning,machine learning",2,B.Tech,Google ML,Data Scientist,Hire,69741,10,100
+390,Miguel Robbins,"deep learning,python,sql,machine learning",1,PhD,AWS Certified,Data Scientist,Reject,84131,3,55
+394,Victor Braun,"python,machine learning,sql",6,PhD,,Data Scientist,Hire,46741,1,80
+397,Leah Cain,"machine learning,deep learning,sql,python",3,M.Tech,AWS Certified,Data Scientist,Reject,93900,0,60
+399,Danielle Davis,"machine learning,python,deep learning",1,MBA,Deep Learning Specialization,Data Scientist,Reject,79404,4,55
+404,Gregg Barber,"python,machine learning,deep learning",0,M.Tech,Deep Learning Specialization,Data Scientist,Reject,114745,6,55
+410,Raymond Perez,"python,sql",0,PhD,Deep Learning Specialization,Data Scientist,Hire,118756,9,65
+411,Jeffrey Cannon,"deep learning,sql",5,MBA,Google ML,Data Scientist,Hire,101471,0,70
+417,Amanda Burke,"deep learning,sql,machine learning,python",1,MBA,AWS Certified,Data Scientist,Reject,86355,4,60
+418,James Bell,"deep learning,machine learning,python,sql",5,B.Tech,,Data Scientist,Hire,112155,0,70
+419,Valerie Clark,"sql,machine learning,python,deep learning",2,MBA,AWS Certified,Data Scientist,Hire,58438,6,80
+422,Stephen Mason,"python,deep learning",2,B.Tech,AWS Certified,Data Scientist,Hire,83979,5,65
+430,Karen Wright,"sql,python,machine learning",10,PhD,AWS Certified,Data Scientist,Hire,55716,0,100
+436,Maria Manning,"python,deep learning,sql",7,M.Tech,Deep Learning Specialization,Data Scientist,Hire,104836,5,100
+438,George Clark,"python,deep learning,machine learning,sql",3,PhD,Google ML,Data Scientist,Hire,77893,10,100
+441,Zoe King,"deep learning,python,machine learning",9,MBA,Google ML,Data Scientist,Hire,105724,10,100
+443,Jason Cummings,"machine learning,sql,deep learning",7,MBA,Google ML,Data Scientist,Hire,79303,6,100
+448,Amber Parker,"machine learning,python",8,B.Sc,,Data Scientist,Hire,40162,7,100
+452,William Parker V,"python,machine learning,deep learning",8,B.Sc,Deep Learning Specialization,Data Scientist,Hire,100425,0,100
+472,Claire Harris,"sql,deep learning,machine learning,python",1,PhD,,Data Scientist,Reject,84161,6,60
+474,Mary Taylor,"sql,machine learning,deep learning",9,B.Tech,,Data Scientist,Hire,114686,0,100
+475,Morgan Bennett,"machine learning,sql,python,deep learning",2,MBA,Google ML,Data Scientist,Hire,108247,6,80
+476,Christina Oneal,"python,machine learning",10,MBA,Google ML,Data Scientist,Hire,89482,5,100
+477,Carrie Wright,"deep learning,machine learning,sql",1,B.Tech,,Data Scientist,Reject,58515,6,55
+478,Beth Harper,"sql,python",8,MBA,Deep Learning Specialization,Data Scientist,Hire,75286,10,100
+480,Daniel Montgomery,"sql,machine learning",1,B.Sc,Deep Learning Specialization,Data Scientist,Reject,104811,1,35
+481,Andrew Moore,"machine learning,python,sql",0,MBA,Google ML,Data Scientist,Reject,116814,5,50
+490,Deborah Ramirez,"sql,machine learning,deep learning,python",3,PhD,,Data Scientist,Hire,104405,9,95
+493,Brian Dodson,"deep learning,machine learning,sql",2,PhD,Deep Learning Specialization,Data Scientist,Hire,106032,10,95
+494,Paula Fletcher,"machine learning,python,sql",6,B.Tech,Deep Learning Specialization,Data Scientist,Hire,116481,8,100
+496,Regina English,"machine learning,deep learning,python",3,B.Sc,AWS Certified,Data Scientist,Hire,79930,9,100
+503,Eric Pena,"sql,deep learning,python,machine learning",7,B.Tech,,Data Scientist,Hire,54552,2,100
+508,Eric Bush,"machine learning,python",5,B.Tech,Google ML,Data Scientist,Hire,91581,4,90
+524,Glenn Kelley,"machine learning,deep learning,sql",0,B.Sc,AWS Certified,Data Scientist,Reject,63564,6,55
+529,Kyle Johnson,"sql,machine learning,deep learning,python",6,M.Tech,Deep Learning Specialization,Data Scientist,Hire,117621,5,100
+531,Crystal Parker,"deep learning,machine learning,sql",5,M.Tech,,Data Scientist,Hire,79635,9,100
+532,Eddie Hutchinson,"python,machine learning",7,B.Sc,AWS Certified,Data Scientist,Hire,55994,2,100
+534,Peter Mcmahon,"python,deep learning,sql,machine learning",5,MBA,Google ML,Data Scientist,Hire,69257,0,80
+542,Angie Roberts,"deep learning,python,machine learning",6,B.Tech,Google ML,Data Scientist,Hire,89840,2,95
+545,Jeffrey Smith,"machine learning,deep learning",7,B.Tech,AWS Certified,Data Scientist,Hire,43930,8,100
+548,Rhonda Mendoza,"machine learning,deep learning,sql",7,M.Tech,Deep Learning Specialization,Data Scientist,Hire,78218,10,100
+551,Rebecca Kirby,"python,deep learning,machine learning,sql",9,B.Tech,Google ML,Data Scientist,Hire,64063,9,100
+555,Frank Hale,"machine learning,python,deep learning,sql",1,B.Sc,Google ML,Data Scientist,Reject,55166,4,60
+558,Jessica Campbell,"machine learning,deep learning,python",7,B.Tech,Deep Learning Specialization,Data Scientist,Hire,99741,0,95
+566,Kaitlin Roman,"sql,deep learning",5,B.Sc,Google ML,Data Scientist,Hire,55964,5,95
+572,Steven Wagner,"machine learning,python,deep learning",7,B.Tech,,Data Scientist,Hire,47698,8,100
+576,James Johnson,"python,machine learning",5,B.Sc,,Data Scientist,Hire,65003,1,65
+580,John Wilson,"deep learning,sql",1,B.Tech,AWS Certified,Data Scientist,Reject,50848,4,50
+581,Maria Torres,"python,machine learning,sql",0,B.Tech,AWS Certified,Data Scientist,Reject,71169,4,45
+587,Gary Glenn,"python,sql,machine learning",9,MBA,Deep Learning Specialization,Data Scientist,Hire,112067,2,100
+592,Peter Thomas,"machine learning,python,sql,deep learning",9,M.Tech,,Data Scientist,Hire,74018,10,100
+593,Kathryn Santos,"deep learning,sql,machine learning,python",3,PhD,Google ML,Data Scientist,Hire,75861,1,65
+597,Samantha Smith,"python,machine learning",8,B.Tech,Deep Learning Specialization,Data Scientist,Hire,95958,2,100
+598,Jessica Stewart,"machine learning,python,deep learning",3,M.Tech,,Data Scientist,Hire,81656,7,80
+605,Sara Jackson,"python,deep learning,machine learning",5,M.Tech,,Data Scientist,Hire,94342,10,100
+620,Mr. Bryan Hernandez,"deep learning,sql,machine learning",6,MBA,Deep Learning Specialization,Data Scientist,Hire,79795,8,100
+626,Erin Davis,"python,deep learning,sql",4,MBA,AWS Certified,Data Scientist,Hire,95919,6,95
+629,Jeffrey Johnson,"sql,deep learning",3,B.Tech,AWS Certified,Data Scientist,Hire,99679,5,75
+640,Mr. Rick Gonzalez,"sql,machine learning",5,B.Sc,Deep Learning Specialization,Data Scientist,Hire,42998,6,100
+649,Emily Young,"machine learning,python",3,B.Tech,Deep Learning Specialization,Data Scientist,Reject,79722,2,60
+657,Craig Howard,"deep learning,machine learning,python,sql",10,PhD,,Data Scientist,Hire,116205,7,100
+663,Gregory Alvarez,"deep learning,python,sql,machine learning",0,PhD,,Data Scientist,Reject,95742,2,30
+670,Sara Brewer,"deep learning,python,sql",2,PhD,Deep Learning Specialization,Data Scientist,Reject,70971,3,60
+675,Alexandra Williams,"sql,python",10,PhD,AWS Certified,Data Scientist,Hire,64417,7,100
+677,David Bradley,"sql,machine learning,deep learning",4,B.Sc,,Data Scientist,Reject,75186,1,60
+680,Joseph Jackson,"machine learning,python,deep learning,sql",8,B.Sc,AWS Certified,Data Scientist,Hire,57448,0,100
+697,Jessica Griffin,"machine learning,python,deep learning",2,M.Tech,Google ML,Data Scientist,Reject,56433,2,55
+708,Melissa Deleon,"machine learning,python,sql",2,PhD,AWS Certified,Data Scientist,Hire,43703,5,70
+719,Jason Elliott,"sql,machine learning",4,MBA,Google ML,Data Scientist,Hire,42621,5,85
+721,Jessica Woods,"sql,deep learning",4,PhD,,Data Scientist,Hire,97719,8,90
+723,Jennifer Moran,"python,machine learning",8,B.Tech,AWS Certified,Data Scientist,Hire,59833,2,100
+726,Nicholas Stephens,"python,deep learning,machine learning",8,B.Tech,Deep Learning Specialization,Data Scientist,Hire,110499,9,100
+727,Ryan Mason,"machine learning,python,sql",10,B.Sc,,Data Scientist,Hire,84036,5,100
+728,Jennifer Morgan MD,"sql,machine learning,deep learning",3,PhD,,Data Scientist,Reject,91090,2,55
+733,Vicki Murphy,"sql,machine learning,deep learning,python",5,PhD,AWS Certified,Data Scientist,Hire,91828,10,100
+740,Amanda Shea,"deep learning,sql,machine learning",6,PhD,,Data Scientist,Hire,79100,2,85
+744,Steve Smith,"deep learning,sql,python,machine learning",5,M.Tech,AWS Certified,Data Scientist,Hire,97148,1,85
+752,Jacob Brown,"deep learning,python,sql",4,B.Tech,,Data Scientist,Hire,90584,3,70
+754,Kevin Carlson,"machine learning,python,deep learning",0,B.Tech,Deep Learning Specialization,Data Scientist,Reject,91454,1,30
+760,Janice Mann,"deep learning,sql",1,MBA,Google ML,Data Scientist,Reject,71365,6,60
+762,Shane Thomas,"machine learning,deep learning,sql",6,M.Tech,,Data Scientist,Hire,41610,7,100
+764,Thomas Moore,"sql,deep learning",6,B.Tech,Deep Learning Specialization,Data Scientist,Hire,116832,1,85
+765,Carrie Vazquez,"sql,deep learning,python",0,B.Tech,Google ML,Data Scientist,Reject,93534,5,50
+769,Robin Bradford,"python,deep learning,sql,machine learning",9,MBA,,Data Scientist,Hire,93197,0,100
+770,Danielle York,"sql,python",8,MBA,AWS Certified,Data Scientist,Hire,104379,6,100
+773,Trevor Sampson,"sql,machine learning",1,PhD,Deep Learning Specialization,Data Scientist,Reject,95743,4,50
+775,Amy White,"machine learning,deep learning,python,sql",4,B.Sc,,Data Scientist,Hire,51928,8,100
+777,Traci Austin,"python,sql,deep learning,machine learning",10,M.Tech,Deep Learning Specialization,Data Scientist,Hire,110158,8,100
+779,Matthew Smith,"deep learning,machine learning,python",10,B.Tech,,Data Scientist,Hire,58090,4,100
+782,Dennis Hunt,"python,sql",0,B.Tech,Google ML,Data Scientist,Hire,76195,10,70
+787,Amy Campbell,"python,deep learning",9,B.Tech,AWS Certified,Data Scientist,Hire,108567,1,100
+792,Kendra Delacruz,"deep learning,machine learning,sql,python",1,PhD,,Data Scientist,Hire,108185,8,70
+793,Tom Bennett,"sql,deep learning,python,machine learning",6,MBA,Google ML,Data Scientist,Hire,107075,8,100
+794,Jennifer Hess,"sql,deep learning,python,machine learning",7,M.Tech,,Data Scientist,Hire,71964,7,100
+800,James Allen,"machine learning,sql,python,deep learning",7,B.Tech,Google ML,Data Scientist,Hire,71459,0,100
+803,Maria Bell,"deep learning,python,sql,machine learning",8,MBA,,Data Scientist,Hire,115812,5,100
+807,Lori Oliver,"python,deep learning,machine learning,sql",8,B.Tech,,Data Scientist,Hire,41965,2,100
+808,Nathan Miller,"python,machine learning,deep learning",9,M.Tech,AWS Certified,Data Scientist,Hire,64058,1,100
+809,Mary Hodge,"sql,machine learning,python,deep learning",6,B.Tech,Deep Learning Specialization,Data Scientist,Hire,77388,4,100
+811,Lisa Martin,"deep learning,sql,machine learning,python",3,B.Sc,AWS Certified,Data Scientist,Hire,89915,9,100
+812,Brittany Knight,"deep learning,python,sql",2,B.Sc,Deep Learning Specialization,Data Scientist,Reject,99578,0,45
+813,James Williams,"sql,python,machine learning,deep learning",6,M.Tech,Deep Learning Specialization,Data Scientist,Hire,112595,7,100
+819,Misty Bailey,"sql,machine learning,python,deep learning",4,B.Sc,Deep Learning Specialization,Data Scientist,Hire,73783,3,85
+823,Patrick Hayes,"sql,machine learning",9,B.Sc,Google ML,Data Scientist,Hire,54846,8,100
+834,Omar Hill,"python,sql,machine learning",3,MBA,Deep Learning Specialization,Data Scientist,Hire,59564,2,65
+837,Kelly Jones,"deep learning,python",9,B.Tech,Google ML,Data Scientist,Hire,91723,8,100
+840,Rebecca Walker,"machine learning,python,sql",2,MBA,Deep Learning Specialization,Data Scientist,Hire,84205,4,65
+843,Jasmine Duffy,"python,sql,deep learning",3,MBA,AWS Certified,Data Scientist,Hire,55341,10,100
+845,Gregory Murray,"deep learning,machine learning,sql",10,B.Tech,,Data Scientist,Hire,70494,7,100
+847,Curtis Wood,"deep learning,machine learning",4,B.Tech,Google ML,Data Scientist,Hire,88986,2,70
+848,Nicole Martinez,"python,sql,deep learning",2,PhD,AWS Certified,Data Scientist,Hire,82119,8,85
+850,Lori Lopez DDS,"machine learning,python,sql",2,B.Tech,,Data Scientist,Reject,44219,4,55
+856,Felicia Gonzalez,"machine learning,python,sql,deep learning",6,M.Tech,AWS Certified,Data Scientist,Hire,116163,2,100
+857,Karen Castillo,"sql,deep learning,python",5,MBA,Deep Learning Specialization,Data Scientist,Hire,46669,5,100
+859,Eric Ramirez,"machine learning,sql,deep learning",10,PhD,,Data Scientist,Hire,54054,0,100
+864,Dennis Gamble,"sql,python,machine learning,deep learning",3,B.Sc,,Data Scientist,Hire,94642,8,90
+867,Timothy Buckley,"python,sql,machine learning",10,MBA,Google ML,Data Scientist,Hire,114118,2,100
+871,Kenneth Lee,"sql,machine learning,python",3,PhD,Google ML,Data Scientist,Hire,45975,10,100
+874,Matthew Ward,"machine learning,python,deep learning,sql",9,B.Tech,Google ML,Data Scientist,Hire,107697,5,100
+876,Brandi Hernandez,"python,sql,machine learning,deep learning",4,B.Tech,AWS Certified,Data Scientist,Hire,65571,5,95
+877,James Pruitt,"machine learning,deep learning,python",3,PhD,,Data Scientist,Hire,107521,10,95
+879,Rachel Johnson,"deep learning,machine learning,sql,python",2,PhD,,Data Scientist,Reject,50002,1,45
+884,Kristen West MD,"sql,machine learning",9,PhD,AWS Certified,Data Scientist,Hire,119901,3,100
+886,David Tran,"machine learning,deep learning",9,PhD,,Data Scientist,Hire,51682,8,100
+887,Steven Gonzalez,"machine learning,deep learning,sql",3,PhD,AWS Certified,Data Scientist,Hire,48470,7,90
+890,Mrs. Heather Williams MD,"python,machine learning,deep learning,sql",7,M.Tech,Google ML,Data Scientist,Hire,112572,5,100
+903,Lisa White,"deep learning,machine learning,sql,python",6,PhD,Deep Learning Specialization,Data Scientist,Hire,48306,10,100
+905,Stacy Flores,"deep learning,machine learning",4,PhD,AWS Certified,Data Scientist,Reject,103828,0,60
+908,Joshua Jensen DDS,"python,deep learning,machine learning",0,B.Tech,AWS Certified,Data Scientist,Reject,72251,6,55
+911,Erin Hull,"machine learning,deep learning",6,PhD,AWS Certified,Data Scientist,Hire,117600,0,80
+914,Laura Vasquez,"deep learning,sql,machine learning",3,B.Tech,,Data Scientist,Reject,94832,3,60
+916,Marcus Edwards,"sql,python",7,PhD,,Data Scientist,Hire,72691,1,85
+918,Michael Jimenez,"deep learning,machine learning,python,sql",5,B.Tech,,Data Scientist,Hire,92538,1,75
+919,Shannon Frazier,"deep learning,python",5,MBA,AWS Certified,Data Scientist,Hire,100800,3,85
+924,Kerry Sanders,"python,machine learning,deep learning,sql",1,PhD,Google ML,Data Scientist,Hire,113545,6,70
+927,John Walker,"machine learning,sql",5,B.Sc,Deep Learning Specialization,Data Scientist,Hire,108012,7,100
+931,Mark Sanford,"python,machine learning",2,B.Sc,Deep Learning Specialization,Data Scientist,Reject,71635,1,45
+934,Kristina Evans,"machine learning,deep learning,python",10,M.Tech,Google ML,Data Scientist,Hire,47998,10,100
+935,Maria Green,"python,sql,machine learning",3,PhD,Google ML,Data Scientist,Reject,55365,1,60
+936,Eddie May,"machine learning,sql",2,MBA,Deep Learning Specialization,Data Scientist,Hire,90929,7,75
+943,Leslie Conway,"machine learning,deep learning,sql,python",2,PhD,AWS Certified,Data Scientist,Hire,80720,6,80
+948,Jeffery Hicks,"python,deep learning,machine learning,sql",2,B.Tech,Deep Learning Specialization,Data Scientist,Hire,42356,3,65
+951,Rita Russell,"deep learning,machine learning",7,M.Tech,AWS Certified,Data Scientist,Hire,87562,9,100
+953,Mary Thomas,"sql,machine learning,python,deep learning",6,B.Sc,Deep Learning Specialization,Data Scientist,Hire,53286,5,100
+955,Megan Meadows,"sql,python,machine learning,deep learning",7,B.Sc,AWS Certified,Data Scientist,Hire,55431,2,100
+956,Michael Johnson,"deep learning,python,sql,machine learning",3,B.Sc,AWS Certified,Data Scientist,Hire,113134,5,85
+960,Evan Rodriguez,"machine learning,sql,python",3,M.Tech,Google ML,Data Scientist,Hire,119432,9,100
+961,Phillip Morris,"sql,machine learning,python",3,B.Tech,Google ML,Data Scientist,Hire,77352,3,70
+962,Melanie Oliver,"sql,deep learning,python",9,B.Sc,Google ML,Data Scientist,Hire,96487,0,100
+966,Elizabeth Stevenson,"sql,machine learning,deep learning",8,M.Tech,,Data Scientist,Hire,61880,8,100
+968,Adriana Johnson,"deep learning,python,machine learning,sql",6,B.Sc,AWS Certified,Data Scientist,Hire,50340,0,90
+970,Mark Hughes,"python,machine learning,sql",9,PhD,Google ML,Data Scientist,Hire,104274,10,100
+979,Hunter Higgins,"sql,deep learning,machine learning",9,B.Sc,Google ML,Data Scientist,Hire,89128,0,100
+981,Juan Le,"python,sql,machine learning",3,B.Tech,AWS Certified,Data Scientist,Hire,71142,4,75
+985,Nicholas Wheeler,"sql,deep learning",0,PhD,Deep Learning Specialization,Data Scientist,Reject,118976,8,60
+987,Carolyn Little,"sql,deep learning,machine learning",1,MBA,,Data Scientist,Hire,44099,8,65
+997,Colleen Hicks,"deep learning,machine learning",0,MBA,Deep Learning Specialization,Data Scientist,Reject,103294,5,45
+1000,Chad Collins,"sql,machine learning,python,deep learning",7,M.Tech,Deep Learning Specialization,Data Scientist,Hire,119474,3,100

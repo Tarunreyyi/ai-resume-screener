@@ -1,0 +1,226 @@
+AI RESUME SCREENER PIPELINE
+(VERY CLEAR – STEP BY STEP – BEGINNER LEVEL)
+
+============================================================
+STEP 1: START PROGRAM
+
+WHAT HAPPENS:
+    - User runs app.py
+    - App loads dataset file
+
+MAIN FILE:
+    - app.py
+
+DATA FILE USED:
+    - data/raw/ai_resume_dataset_2025.csv
+
+MODULE USED:
+    - modules/data_loader.py
+
+WHAT THIS STEP DOES:
+    - Reads CSV file using pandas
+    - Stores data inside a DataFrame
+    - Sends data to next step
+
+============================================================
+STEP 2: FILTER JOB ROLE
+
+WHAT HAPPENS:
+    - User selects a job role (example: Data Scientist)
+    - Program keeps only candidates for that role
+
+MAIN FILE:
+    - app.py
+
+MODULE USED:
+    - modules/data_loader.py
+
+WHAT THIS STEP DOES:
+    - df = df[df["Job Role"] == selected_role]
+    - Now we only work with relevant candidates
+
+============================================================
+STEP 3: CLEAN THE DATA
+
+WHAT HAPPENS:
+    - Convert skills to lowercase
+    - Remove extra spaces
+    - Split skills by comma
+    - Convert Experience to number
+    - Convert Projects Count to number
+    - Replace missing Certifications with empty
+
+MAIN FILE:
+    - app.py
+
+MODULE USED:
+    - modules/preprocessing.py
+
+OUTPUT FILE CREATED:
+    - data/processed/cleaned_resume_data.csv
+
+WHAT THIS STEP DOES:
+    - Makes data clean
+    - Removes errors
+    - Makes it ready for ML
+
+============================================================
+STEP 4: CONVERT TEXT TO NUMBERS (FEATURE ENGINEERING)
+
+WHY:
+    - Machine learning cannot understand text
+    - We must convert text into numbers
+
+WHAT HAPPENS:
+
+PART A – SKILLS
+    - Apply TF-IDF on Skills column
+    - Convert skill text into numeric vectors
+
+PART B – EDUCATION
+    - Convert education to score
+        PhD = 4
+        MBA = 3
+        B.Sc = 2
+        Others = 1
+
+PART C – EXPERIENCE
+    - Normalize experience (scale 0–1)
+
+PART D – PROJECTS
+    - Normalize projects count
+
+PART E – CERTIFICATION
+    - If certification exists → 1
+    - If none → 0
+
+MAIN FILE:
+    - app.py
+
+MODULE USED:
+    - modules/feature_engineering.py
+
+MODEL SAVED:
+    - models/tfidf_vectorizer.pkl
+
+WHAT THIS STEP DOES:
+    - Converts all resume features into numbers
+
+============================================================
+STEP 5: SKILL MATCH CALCULATION
+
+WHAT HAPPENS:
+    - Convert job role text into TF-IDF vector
+    - Compare candidate skills with job role
+    - Use Cosine Similarity
+
+MAIN FILE:
+    - app.py
+
+MODULE USED:
+    - modules/similarity.py
+
+WHAT THIS STEP DOES:
+    - Calculates skill similarity score (0 to 1)
+    - Example:
+        0.85 means 85% skill match
+
+============================================================
+STEP 6: CALCULATE FINAL SCORE
+
+WHAT HAPPENS:
+    - Combine all scores:
+
+        Skill Score
+        Experience Score
+        Education Score
+        Projects Score
+        Certification Score
+
+    - Apply weights:
+        Skills = 40%
+        Experience = 20%
+        Education = 15%
+        Projects = 15%
+        Certification = 10%
+
+    - Final Score = Combined weighted score
+    - Convert to 0–100 scale
+
+MAIN FILE:
+    - app.py
+
+MODULE USED:
+    - modules/scoring.py
+    - utils/helper.py
+
+OUTPUT FILE CREATED:
+    - outputs/final_scores.csv
+
+WHAT THIS STEP DOES:
+    - Creates one final performance score
+
+============================================================
+STEP 7: RANK CANDIDATES
+
+WHAT HAPPENS:
+    - Sort candidates by Final Score (highest first)
+    - Assign Rank
+
+        Highest score = Rank 1
+        Second highest = Rank 2
+
+MAIN FILE:
+    - app.py
+
+MODULE USED:
+    - modules/ranking.py
+
+OUTPUT FILE CREATED:
+    - outputs/ranked_candidates.csv
+
+WHAT THIS STEP DOES:
+    - Creates final ranking list
+
+============================================================
+STEP 8: DISPLAY RESULTS
+
+WHAT HAPPENS:
+    - Show:
+        Name
+        Skills
+        Experience
+        Final Score
+        Rank
+        Original AI Score (for comparison)
+
+    - Allow user to download CSV
+
+MAIN FILE:
+    - app.py
+
+FILES USED:
+    - outputs/ranked_candidates.csv
+    - outputs/final_scores.csv
+
+WHAT THIS STEP DOES:
+    - Shows final output to recruiter
+
+============================================================
+COMPLETE FLOW (ONE LINE VIEW)
+
+app.py
+    ↓
+data_loader.py
+    ↓
+preprocessing.py
+    ↓
+feature_engineering.py
+    ↓
+similarity.py
+    ↓
+scoring.py
+    ↓
+ranking.py
+    ↓
+outputs/

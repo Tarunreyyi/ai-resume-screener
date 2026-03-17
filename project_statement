@@ -1,0 +1,89 @@
+## 🤖 AI Resume Screener
+
+### ✅ 1. Objective (Goal of Project)
+
+To build a simple AI system that:
+
+- Reads resume data from a structured dataset  
+- Analyzes candidate skills, experience, education, and certifications  
+- Compares candidates based on job role requirements  
+- Generates a matching score  
+- Ranks candidates based on their suitability  
+
+👉 The main goal is to automate resume evaluation using structured resume data and make hiring faster and more accurate.
+
+---
+
+### ✅ 2. Problem Statement
+
+In the given dataset, each resume contains:
+
+- Skills  
+- Experience (Years)  
+- Education  
+- Certifications  
+- Job Role  
+- Salary Expectation  
+- Projects Count  
+- Recruiter Decision  
+- AI Score  
+
+Even though the data is structured, recruiters still face problems:
+
+- Difficult to analyze multiple factors together (skills, experience, projects)  
+- Hard to manually compare many candidates for the same job role  
+- Bias may occur during manual selection  
+- Time-consuming decision-making process  
+- Need to verify if AI Score aligns with actual candidate profile  
+
+Therefore, we need a system that:
+
+- Reads structured resume data from CSV  
+- Processes skills and job role information  
+- Uses experience, projects count, and certifications for scoring  
+- Calculates a final ranking score  
+- Sorts candidates from best to least suitable  
+
+This upgraded AI Resume Screener will use multiple resume features instead of only keyword matching.
+
+---
+
+### ✅ 3. Programmatic Skills Required
+
+To build this project, you need:
+
+🟢 1. Python Basics
+- Variables  
+- Functions  
+- Loops  
+- File handling  
+- Working with CSV files  
+
+🟢 2. Data Handling
+- Reading CSV using pandas  
+- Data cleaning  
+- Handling missing values  
+- Splitting skills column  
+
+🟢 3. Text Processing (NLP Basics)
+- Cleaning skill text  
+- Converting text into numerical format (TF-IDF)  
+
+🟢 4. Machine Learning Basics
+- Feature engineering  
+- TF-IDF Vectorization  
+- Cosine Similarity  
+- Score calculation and ranking logic  
+
+🟢 5. Libraries You Should Know
+- pandas  
+- scikit-learn  
+- numpy  
+- nltk  
+- streamlit  
+
+🟢 6. Basic UI Knowledge
+- Streamlit web interface  
+- Displaying ranked candidate table  
+- Showing similarity score  
+- Downloading results as CSV  
