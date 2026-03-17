@@ -42,3 +42,36 @@ An AI-powered resume screening system that automates candidate evaluation and ra
 ---
 
 ## 📂 Project Structure
+ai_resume_screener/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+│
+├── data/
+│ ├── raw/
+│ │ └── ai_resume_dataset_2025.csv
+│ ├── processed/
+│ │ └── cleaned_resume_data.csv
+│ └── external/
+│ └── job_description.txt
+│
+├── modules/
+│ ├── data_loader.py
+│ ├── preprocessing.py
+│ ├── feature_engineering.py
+│ ├── similarity.py
+│ ├── scoring.py
+│ ├── ranking.py
+│ ├── resume_parser.py
+│
+├── models/
+│ └── tfidf_vectorizer.pkl
+│
+├── outputs/
+│ ├── final_scores.csv
+│ └── ranked_candidates.csv
+│
+├── utils/
+│ ├── config.py
+│ └── helper.py
